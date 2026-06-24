@@ -1,0 +1,21 @@
+{
+  "name": "hello.js",
+  "version": "1.0.0",
+  "description": "creating this for learining js",
+  "homepage": "https://github.com/Darpan-n-Jain/js-learning#readme",
+  "bugs": {
+    "url": "https://github.com/Darpan-n-Jain/js-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darpan-n-Jain/js-learning.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  }
+}
