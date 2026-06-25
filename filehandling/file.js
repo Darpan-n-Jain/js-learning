@@ -3,7 +3,7 @@ fs.writeFileSync('./test.txt',"hey i am darpan"); //used to create file sync..
 
 fs.writeFile("./test2.txt","hello", (err) => {} ); //create file async
 
-const result =fs.readFileSync("./contacts.txt","utf-8") // read file in sync
+const result =fs.readFileSync("./contacts.txt","utf-8") // read file in sync ie in blocking opp
 console.log(result);
 console.log("read file async")
 
